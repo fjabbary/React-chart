@@ -9,7 +9,7 @@
     "@material-ui/icons": "^3.0.2",
     "@material-ui/styles": "^3.0.0-alpha.10",
     "jss-extend": "^6.2.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "material-ui-pickers": "^2.2.4",
     "moment": "^2.24.0",
     "rc-color-picker": "^1.2.6",
